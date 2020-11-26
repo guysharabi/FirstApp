@@ -30,3 +30,4 @@ git rm --cached <fileNane>
 
 הוספת קבצים (checkin)
 --git commit
+i -> Initial commit -> esc -> :wq
