@@ -14,8 +14,8 @@ $ touch index.html
 $ touch app.js
 
 הגדרה של פרטי משתמשים:
-$ git config --global user.name 'guy sharabi'
-$ git config --global user.email 'guysh@fmr.co.il'
+$ git config --global user.name 'guysharabi'
+$ git config --global user.email 'guysharabi86@gmail.com'
 
 בדיקת סטאטוס של קבצים:
 $ git status
