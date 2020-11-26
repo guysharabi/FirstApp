@@ -1,0 +1,32 @@
+
+בדיקת גרסה:
+$ git --version
+
+בחירת תקיה
+$ cd C:\Git
+
+קביעת התקיה כראשית
+$ git init
+
+
+יצירת קבצים
+$ touch index.html
+$ touch app.js
+
+הגדרה של פרטי משתמשים:
+$ git config --global user.name 'guy sharabi'
+$ git config --global user.email 'guysh@fmr.co.il'
+
+בדיקת סטאטוס של קבצים:
+$ git status
+
+-- קבצים לגיט(Local Cach)
+$ git add index.html
+$ git add *.html
+$ git add .
+
+--הוצאת קבצים 
+git rm --cached <fileNane>
+
+הוספת קבצים (checkin)
+--git commit
